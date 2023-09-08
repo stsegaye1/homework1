@@ -7,3 +7,8 @@ A rebase is done when you want to update the start of your branch to a later com
 
 Therefore merge and rebase do different things: merge is a way of COMBINING changes from one branch (source branch) into another branch (target branch) 
 and rebase is a way of MOVING the changes from one branch onto another branch.
+
+What is a remote repository?
+
+A remote repository is a version of your project that is hosted on a server that is accessible by other people, like your team members, 
+likely on the internet or network somewhere.
